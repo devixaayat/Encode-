@@ -1,7 +1,7 @@
 # -*- coding:utf8 -*-
 
 # Supports python2 & python3
-# Name   : Devi - Simple Python Code Obfuscator
+# Name   : Devvi - Simple Python Code Obfuscator
 # Author : Devi
 # Date   : Fri Aug 06 00:05:39 2023
 
